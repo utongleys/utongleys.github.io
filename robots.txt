@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://utongleys.github.io/sitemap
+Sitemap: https://utongleys.github.io/app/sitemap
+Sitemap: https://utongleys.github.io/assets/sitemap
+Sitemap: https://utongleys.github.io/css/sitemap
+Sitemap: https://utongleys.github.io/includes/sitemap
+Sitemap: https://utongleys.github.io/item/sitemap
+Sitemap: https://utongleys.github.io/src/sitemap
